@@ -1,0 +1,17 @@
+#C
+COLOR_PURPLE: tuple =  (75, 0, 130)
+COLOR_BLACK = (0, 0, 0)
+COLOR_WHITE = (255, 255, 255)
+COLOR_GREEN = (0, 255, 0)
+COLOR_RED = (255, 0, 0)
+COLOR_YELLOW = (255, 255, 0)
+COLOR_MAGENTA = (255, 0, 255)
+COLOR_BLUE = (0, 0, 255)
+
+#M
+MENU_OPTIONS = ('NEW GAME ',
+                'SCORE',
+                'EXIT GAME')
+#W
+WIN_WIDTH = 1106
+WIN_HEIGHT = 1014
